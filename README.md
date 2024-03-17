@@ -23,6 +23,8 @@ Este é meu primeiro projeto interativo com arduíno, simples, porém me ajudou 
 
 <div style="display: inline_block">
   <img src="https://csg.tinkercad.com/things/d2jGrKBA1nu/t725.png?rev=1710694846422000000&s=&v=1&type=circuits"/>
+
+  <iframe width="725" height="453" src="https://www.tinkercad.com/embed/d2jGrKBA1nu" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 </div>
 
 ## • Simulação
