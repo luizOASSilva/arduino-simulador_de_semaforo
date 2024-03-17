@@ -6,7 +6,7 @@ Simulador do funcionamento de um semáforo em C++.
 Este é meu primeiro projeto interativo com arduíno, simples, porém me ajudou a entender diversas funcionalidades da protoboard e a usabilidade de alguns componentes - além de me introduzir à linguagem **C++**.
 
 ## • Funcionalidades
-**Simula dois semáforos:** Simula dois semáforos, um de automóveis e outro para transuentes.
+**Simula dois semáforos:** Simula dois semáforos, um de automóveis e outro para transeuntes.
 
 ## •Tecnologias e Linguagens
 <div style="display: inline_block">
@@ -17,7 +17,7 @@ Este é meu primeiro projeto interativo com arduíno, simples, porém me ajudou 
 ## • Referências e documentações
 | **[C++](https://en.cppreference.com/w/)** 
 
-## • Visão do circuíto
+## • Visão do circuito
 
 <br/>
 
